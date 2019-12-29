@@ -57,6 +57,6 @@
   "dependencies": {
     "electron-log": "^2.2.14",
     "electron-updater": "^2.19.1",
-    "electron-window-state": "^4.1.1"
+    "electron-window-state": "^5.0.3"
   }
 }
