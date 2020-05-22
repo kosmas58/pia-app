@@ -60,7 +60,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "electron-log": "^4.1.4",
+    "electron-log": "^4.2.0",
     "electron-notarize": "^0.3.0",
     "electron-updater": "^4.3.1",
     "electron-window-state": "^5.0.3"
