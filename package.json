@@ -55,7 +55,7 @@
     }
   },
   "devDependencies": {
-    "electron": "^9.0.1",
+    "electron": "^9.0.2",
     "electron-builder": "^22.7.0",
     "rimraf": "^3.0.2"
   },
