@@ -62,7 +62,7 @@
   "dependencies": {
     "electron-log": "^4.3.1",
     "electron-notarize": "^1.0.0",
-    "electron-updater": "^4.3.7",
+    "electron-updater": "^4.3.8",
     "electron-window-state": "^5.0.3"
   }
 }
